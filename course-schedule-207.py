@@ -24,7 +24,9 @@ class Solution:
             for m in graph[n]:
                 if hasCycle(graph, maxCourse, m, visited):
                     return True
+
             visited.remove(n)
+            return False
 
         for i in range(numCourses):
             if hasCycle(graph, i, i, set()):
