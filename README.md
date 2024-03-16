@@ -19,3 +19,4 @@ Sum Root to Leaf Numbers.
 ## Graph BFS
 
 - Snakes and Ladders [909](./snakes-and-ladders-909.py)
+- Minimum Genetic Mutation [433](./minimum-genetic-mutation-433.py)
