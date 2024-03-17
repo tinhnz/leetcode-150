@@ -1,3 +1,8 @@
+"""
+https://en.wikipedia.org/wiki/Trie
+"""
+
+
 class Node:
     def __init__(self, terminal: bool = False):
         self.terminal = terminal

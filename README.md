@@ -24,3 +24,6 @@ Sum Root to Leaf Numbers.
 ## Trie
 
 - Implement Trie [208](./implement-trie-208.py)
+- Design Add and Search Words Data Structure [211](./word-dictionary-211.py)
+
+## Backtracking
