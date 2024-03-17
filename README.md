@@ -20,3 +20,7 @@ Sum Root to Leaf Numbers.
 
 - Snakes and Ladders [909](./snakes-and-ladders-909.py)
 - Minimum Genetic Mutation [433](./minimum-genetic-mutation-433.py)
+
+## Trie
+
+- Implement Trie [208](./implement-trie-208.py)
