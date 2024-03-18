@@ -31,3 +31,4 @@ Sum Root to Leaf Numbers.
 - Letter Combinations of a Phone Number [17](./letter-combinations-17.py)
 - Combinations [77](./combinations-77.py)
 - Permutations [46](./permutations-46.py)
+- Combination Sum [39](./combination-sum-39.py)
