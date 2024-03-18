@@ -33,3 +33,6 @@ Sum Root to Leaf Numbers.
 - Permutations [46](./permutations-46.py)
 - Combination Sum [39](./combination-sum-39.py)
 - Generate Parentheses [22](./generate-parenthese-22.py)
+- Word Search [79](./word-search-79.py)
+
+## Divide and Conquer
