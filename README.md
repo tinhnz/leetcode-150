@@ -38,3 +38,4 @@ Sum Root to Leaf Numbers.
 ## Divide and Conquer
 
 - Sorted Array to Binary Search Tree [108](./sorted-array-to-binary-search-tree-108.py)
+- Sort List [148](./sort-list-148.py)
