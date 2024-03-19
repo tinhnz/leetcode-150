@@ -36,3 +36,5 @@ Sum Root to Leaf Numbers.
 - Word Search [79](./word-search-79.py)
 
 ## Divide and Conquer
+
+- Sorted Array to Binary Search Tree [108](./sorted-array-to-binary-search-tree-108.py)
