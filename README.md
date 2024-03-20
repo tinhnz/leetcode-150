@@ -49,3 +49,4 @@ Sum Root to Leaf Numbers.
 ## Binary Search
 
 - Search Insert Position [35](./search-insert-position-35.py)
+- Search a 2D Matrix [74](./search-a-2d-matrix-74.py)
