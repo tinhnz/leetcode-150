@@ -44,3 +44,4 @@ Sum Root to Leaf Numbers.
 ## Kadane's Algorithm
 
 - Maximum Subarray [53](./maximum-subarray-53.py) 🎋
+- Maximum Sum Circular Subarray [918](./maximum-sum-circular-subarray-918.py) 🎋
