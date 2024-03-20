@@ -1,5 +1,6 @@
 """
 Kadane's algorithm.
+Nice solution: https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer
 """
 
 

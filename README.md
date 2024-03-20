@@ -43,4 +43,4 @@ Sum Root to Leaf Numbers.
 
 ## Kadane's Algorithm
 
-- Maximum Subarray [53](./maximum-subarray-53.py)
+- Maximum Subarray [53](./maximum-subarray-53.py) 🎋
