@@ -45,3 +45,7 @@ Sum Root to Leaf Numbers.
 
 - Maximum Subarray [53](./maximum-subarray-53.py) 🎋
 - Maximum Sum Circular Subarray [918](./maximum-sum-circular-subarray-918.py) 🎋
+
+## Binary Search
+
+- Search Insert Position [35](./search-insert-position-35.py)
