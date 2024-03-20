@@ -40,3 +40,7 @@ Sum Root to Leaf Numbers.
 - Sorted Array to Binary Search Tree [108](./sorted-array-to-binary-search-tree-108.py)
 - Sort List [148](./sort-list-148.py)
 - Contruct Quad Tree [427](./contruct-quad-tree-427.py)
+
+## Kadane's Algorithm
+
+- Maximum Subarray [53](./maximum-subarray-53.py)
