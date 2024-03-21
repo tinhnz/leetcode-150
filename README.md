@@ -51,4 +51,5 @@ Sum Root to Leaf Numbers.
 - Search Insert Position [35](./search-insert-position-35.py)
 - Search a 2D Matrix [74](./search-a-2d-matrix-74.py)
 - Find Peak Element [162](./find-peak-element-162.py)
-- Search in Rotated Sorted Array [33](./search-in-rotated-sorted-array-33.py)
+- Search in Rotated Sorted Array [33](./search-in-rotated-sorted-array-33.py) 🎋
+- Find First and Last Position of Element in Sorted Array [34](./find-first-last-sorted-array-34.py) 🎋
