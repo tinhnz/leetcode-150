@@ -53,3 +53,4 @@ Sum Root to Leaf Numbers.
 - Find Peak Element [162](./find-peak-element-162.py)
 - Search in Rotated Sorted Array [33](./search-in-rotated-sorted-array-33.py) 🎋
 - Find First and Last Position of Element in Sorted Array [34](./find-first-last-sorted-array-34.py) 🎋
+- Find Minimum in Rotated Sorted Array [153](./find-minimum-in-rotated-sorted-array-153.py)
